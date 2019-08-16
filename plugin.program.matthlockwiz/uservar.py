@@ -13,7 +13,7 @@ ART            = os.path.join(PATH, 'resources', 'art')
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = 'Matthlock Wizard'
 BUILDERNAME    = 'Matthlock'
-EXCLUDES       = [ADDON_ID]
+EXCLUDES       = [ADDON_ID,'repository.matthlock']
 # Enable/Disable the text file caching with 'Yes' or 'No' and age being how often it rechecks in minutes
 CACHETEXT      = 'Yes'
 CACHEAGE       = 30
