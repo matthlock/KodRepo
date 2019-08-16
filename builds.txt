@@ -1,6 +1,6 @@
 name="Matthlock Wizard"
 version="1.0"
-url="http://matthlock.co.uk/repo/Kodibuild.zip"
+url="http://matthlock.co.uk/Kodi/Kodibuild.zip"
 minor="http://"
 gui="http://"
 kodi="18.3"
