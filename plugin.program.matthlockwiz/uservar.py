@@ -105,7 +105,7 @@ REPOID         = 'repository.matthlock'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML   = 'https://raw.githubusercontent.com/matthlock/KodiRepo/master/zips/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL     = 'https://github.com/matthlock/KodiRepo/tree/master/zips/repository.matthlock'
+REPOZIPURL     = 'https://github.com/matthlock/KodiRepo/raw/master/zips/repository.matthlock'
 #########################################################
 
 #########################################################
