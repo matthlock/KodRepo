@@ -15,8 +15,8 @@ ADDONTITLE     = 'Matthlock Wizard'
 BUILDERNAME    = 'Matthlock'
 EXCLUDES       = [ADDON_ID,'repository.matthlock']
 # Enable/Disable the text file caching with 'Yes' or 'No' and age being how often it rechecks in minutes
-CACHETEXT      = 'Yes'
-CACHEAGE       = 30
+CACHETEXT      = 'No'
+CACHEAGE       = 1
 # Text File with build info in it.
 BUILDFILE      = 'https://raw.githubusercontent.com/matthlock/KodiRepo/master/builds.txt'
 # How often you would like it to check for build updates in days
@@ -103,9 +103,9 @@ AUTOINSTALL    = 'Yes'
 # Addon ID for the repository
 REPOID         = 'repository.matthlock'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'https://raw.githubusercontent.com/matthlock/matthlock.github.io/master/zips/addons.xml'
+REPOADDONXML   = 'https://raw.githubusercontent.com/matthlock/KodiRepo/master/zips/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL     = 'https://github.com/matthlock/matthlock.github.io/tree/master/zips/repository.matthlock'
+REPOZIPURL     = 'https://github.com/matthlock/KodiRepo/tree/master/zips/repository.matthlock'
 #########################################################
 
 #########################################################
