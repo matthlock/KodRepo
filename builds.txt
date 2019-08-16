@@ -1,6 +1,6 @@
 name="Matthlock Build"
 version="1.0"
-url="http://matthlock.000webhost.com/Repo/Kodibuild.zip"
+url="http://matthlock.000webhostapp.com/Repo/Kodibuild.zip"
 minor="http://"
 gui="http://"
 kodi="18.3"
